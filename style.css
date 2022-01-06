@@ -1,0 +1,115 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-family: "Rubik", sans-serif;
+  box-sizing: border-box;
+  max-width: 1300px;
+}
+h1 {
+  font-size: 50px;
+}
+h2 {
+  font-size: 40px;
+}
+h3 {
+  font-size: 30px;
+}
+.flexible {
+  display: flex;
+  align-items: center;
+  padding-left: 30px;
+}
+section {
+  margin-bottom: 150px;
+}
+.text-border {
+  border-left: 7px solid #ff2600;
+  padding-left: 10px;
+}
+.text {
+  width: 50%;
+}
+.heading-img {
+  width: 50%;
+  padding-left: 40px;
+}
+.heading-img img {
+  width: 70%;
+}
+p {
+  font-size: 18px;
+}
+.btn {
+  display: inline-block;
+  margin-bottom: 20px;
+  text-decoration: none;
+  background-color: #ff2600;
+  padding: 5px 15px;
+  color: white;
+  border-radius: 5px;
+}
+.card {
+  padding-left: 30px;
+}
+.center {
+  text-align: center;
+  margin-bottom: 60px;
+}
+.text-color {
+  color: #ff8e00;
+}
+.card-items {
+  display: flex;
+  gap: 15px;
+}
+.cards-bg {
+  border-radius: 20px;
+  width: 33%;
+  padding: 30px;
+}
+.card-1 {
+  background-color: #edf5f6;
+}
+.card-2 {
+  background-color: #ffeeee;
+}
+.card-3 {
+  background-color: #fff4d6;
+}
+.team {
+  display: flex;
+  gap: 40px;
+  padding-left: 30px;
+}
+.team-text {
+  width: 65%;
+  padding-top: 80px;
+}
+.team-text h3 {
+  font-size: 35px;
+}
+.team-img {
+  width: 40%;
+}
+.team-img img {
+  width: 100%;
+}
+.icon-img {
+  width: 100px;
+}
+
+.footer-bg {
+  height: 100px;
+  background-color: black;
+  text-align: center;
+}
+.footer-bg h3 {
+  color: white;
+  padding-top: 5px;
+}
+.footer-bg p {
+  color: white;
+  font-weight: 400;
+}
+.footer-color {
+  color: red;
+}
